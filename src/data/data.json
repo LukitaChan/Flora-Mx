@@ -1,0 +1,418 @@
+[
+	{
+		"id": 1,
+		"nombre": "Aceitilla",
+		"nombreCientifico": "Bidens aurea",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Pachycereus_weberi_001.jpg/245px-Pachycereus_weberi_001.jpg",
+		"description": "La aceitilla blanca es una de las hierbas que crecen en los valles de Aguascalientes. Sus flores tienen pétalos blancos, casi siempre de a cinco por flor. Tiene usos medicinales.",
+		"gps": {
+			"lat": 21.8862923,
+			"lng": -102.2887246
+		},
+		"url": "https://www.lifeder.com/flora-fauna-aguascalientes/",
+		"estado": "Aguascalientes"
+	},
+	{
+		"id": 2,
+		"nombre": "Hierba de la virgen",
+		"nombreCientifico": "Fagonia cretica",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Fagonia_cretica.jpg/250px-Fagonia_cretica.jpg",
+		"description": "Crece en los chaparrales, al pie de las montañas y en los bosques de pinos de Baja California. Llega a medir dos metros de altura. Sus flores son de color amarillo brillante y tienen cuatro pétalos.",
+		"gps": {
+			"lat": 32.625661,
+			"lng": -115.4516539
+		},
+		"url": "https://www.lifeder.com/flora-fauna-baja-california/",
+		"estado": "Baja California"
+	},
+	{
+		"id": 3,
+		"nombre": "Biznaga",
+		"nombreCientifico": "Echinocactus",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Echinocactusgrusonii.JPG/360px-Echinocactusgrusonii.JPG",
+		"description": "Son cactus en forma de globos. Se encuentran en las zonas áridas del estado. Con la pulpa de la biznaga se prepara un rico dulce tradicional que lleva el mismo nombre. Es usado también como decoración en los hogares debido a sus llamativas flores.",
+		"gps": {
+			"lat": 24.1165112,
+			"lng": -110.3377464
+		},
+		"url": "https://www.lifeder.com/flora-fauna-baja-california-sur/",
+		"estado": "Baja California Sur"
+	},
+	{
+		"id": 4,
+		"nombre": "Achiote",
+		"nombreCientifico": "Bixa orellana",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bixa.jpg",
+		"description": "Esta planta puede desarrollarse como arbusto o árbol alcanzando hasta 30 m de altura y tiene hojas simples acorazonadas. Con flores de 5 pétalos rosados que nacen en panículas, y frutos tipo cápsulas espinosas rojas al madurar.Estas cápsulas al abrirse liberan semillas de la que se extrae un colorante para comidas (achiote).",
+		"gps": {
+			"lat": 19.8306489,
+			"lng": -90.5798364
+		},
+		"url": "https://www.lifeder.com/flora-fauna-campeche/",
+		"estado": "Campeche"
+	},
+	{
+		"id": 5,
+		"nombre": "Lacandonia schismatica",
+		"nombreCientifico": "Lacandonia schismatica",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lacandonia.PNG/250px-Lacandonia.PNG",
+		"description": "Es un género de plantas de la familia Triuridaceae que es muy peculiar, debido a que se alimentan de hongos que penetran sus células. Estas plantas no realizan fotosíntesis, por lo tanto no tienen clorofila. Por otra parte, el género Lacandonia presenta invertida la posición de los pistilos y estambres respecto a todas las demás plantas del planeta. Así, tienen 3 estambres en el centro de la flor, rodeados por 80 pistilos.",
+		"gps": {
+			"lat": 16.7523576,
+			"lng": -93.1487911
+		},
+		"url": "https://www.lifeder.com/flora-fauna-chiapas/",
+		"estado": "Chiapas"
+	},
+	{
+		"id": 6,
+		"nombre": "Gobernadora",
+		"nombreCientifico": "Larrea tridentata",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Larrea_tridentata_3.jpg/220px-Larrea_tridentata_3.jpg",
+		"description": "Este es un arbusto perenne típico del desierto que alcanza entre 1 y 4 m de altura, con hojas verde oscuro. Estas hojas contienen resinas que le aportan un sabor amargo y olor característico a la planta. Se reproduce tanto por semillas como vegetativamente, de tal forma que produce clones que forman colonias circulares.Con el tiempo la parte central más vieja muere y sigue creciendo la periferia, formando un anillo cada vez más separado. En este caso todo el anillo arbustivo es un mismo individuo que puede alcanzar hasta más de 11.000 años de edad.",
+		"gps": {
+			"lat": 28.6310758,
+			"lng": -106.0726207
+		},
+		"url": "https://www.lifeder.com/flora-fauna-chihuahua/",
+		"estado": "Chihuahua"
+	},
+	{
+		"id": 7,
+		"nombre": "Nopal",
+		"nombreCientifico": "Opuntia ficus-indica",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Opuntia_ficus-indica.jpg/220px-Opuntia_ficus-indica.jpg",
+		"description": "Es una planta de tipo arbustivo que pertenece a la familia de las cactáceas. Tiene tallos ramificados. Con la maduración, el nopal logra dar flores y frutos, los cuales tienen un alto valor culinario y medicinal en la tradición mexicana y americana en general.",
+		"gps": {
+			"lat": 25.4393931,
+			"lng": -100.975839
+		},
+		"url": "https://www.lifeder.com/flora-fauna-coahuila/",
+		"estado": "Coahuila"
+	},
+	{
+		"id": 8,
+		"nombre": "Guayacán",
+		"nombreCientifico": "Guaiacum officinale",
+		"image": "https://mxcity.mx/wp-content/uploads/2021/06/guayacan-en-flor-.jpg",
+		"description": "Es un árbol que crece en la zona costera. Tiene grandes beneficios medicinales: es diurético, ayuda a bajar la fiebre, reduce la acidez estomacal y es muy eficaz para perder peso.",
+		"gps": {
+			"lat": 19.2545643,
+			"lng": -103.7225086
+		},
+		"url": "https://www.lifeder.com/flora-fauna-colima/",
+		"estado": "Colima"
+	},
+	{
+		"id": 9,
+		"nombre": "Flor de Nochebuena",
+		"nombreCientifico": "Euphorbia pulcherrima",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Euphorbia_pulcherrima_mexicana_%28Noche_Buena%29.jpg/220px-Euphorbia_pulcherrima_mexicana_%28Noche_Buena%29.jpg",
+		"description": "Los mexicas la llamaban, en náhuatl, cuetlaxóchitl ('Flor que se marchita'), término que proviene de la unión de otros dos: cuetlahui, marchitar, y xochitl, flor. Otra posible etimología dice que proviene de cuetlaxtli, cuero, y xochitl, al unirse las dos palabras, la primera pierde su terminación tli; por lo tanto, una traducción literal podría ser flor de cuero, debido al color rojo vivo de los pétalos, semejante a la piel recién desprendida",
+		"gps": {
+			"lat": 19.4273993,
+			"lng": -99.1415587
+		},
+		"url": "https://www.lifeder.com/flora-fauna-ciudad-mexico/",
+		"estado": "CDMX"
+	},
+	{
+		"id": 10,
+		"nombre": "Ahuehuete",
+		"nombreCientifico": "Taxodium distichum var. mexicanum",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/El_Sabinal%2C_Salto_de_los_Salado%2C_Aguascalientes_51.JPG/250px-El_Sabinal%2C_Salto_de_los_Salado%2C_Aguascalientes_51.JPG",
+		"description": "Este árbol pertenece al grupo de las coníferas (plantas resinosas que no poseen flores), con conos reproductivos redondeados. Es un árbol que llega a alcanzar hasta 40 m de altura y cerca de 12 m de diámetro. Tiene una corteza que se desprende en tiras cuando la planta es joven, volviéndose uniforme y de color grisáceo de adulta y las hojas son pequeñas, estrechas y alargadas.",
+		"gps": {
+			"lat": 24.0272228,
+			"lng": -104.6544859
+		},
+		"url": "https://www.lifeder.com/flora-fauna-durango/",
+		"estado": "Durango"
+	},
+	{
+		"id": 11,
+		"nombre": "Cazahuate de Monte",
+		"nombreCientifico": "Ipomoea arborescens",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Casahuate_Mt_Alban_Mex.jpg/250px-Casahuate_Mt_Alban_Mex.jpg",
+		"description": "El cazahuate es un árbol que varía entre los 5 a 9 metros de altura. Posee ramas delgadas y densas, con tronco torcido y corteza de color café. Crece principalmente en los matorrales del estado de Guanajuato. Florece entre octubre y abril. Entre sus usos medicinales destaca su empleo para ayuda contra la caída del cabello y problemas de la piel.",
+		"gps": {
+			"lat": 21.0190709,
+			"lng": -101.2573282
+		},
+		"url": "https://www.lifeder.com/flora-fauna-guanajuato/",
+		"estado": "Guanajuato"
+	},
+	{
+		"id": 12,
+		"nombre": "Encino",
+		"nombreCientifico": "Quercus sp.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ljuster%C3%B6_B%C3%B6ssarviken_01.jpg/250px-Ljuster%C3%B6_B%C3%B6ssarviken_01.jpg",
+		"description": "Este árbol monoico pertenece a la familia Fagáceae. En el estado mexicano de Guerrero forma uno de los grupos botánicos de mayor utilidad e importancia ambiental. Esto es debido a su diversidad, a la amplitud de su  utilización y a la extensa superficie que ocupan. Su altura puede oscilar entre los 15 y los 40 metros. Las ramas son surcadas y, en la etapa juvenil, pudieran ser pubescentes. Tiene yemas escamosas, formadas en las axilas o en los extremos de las ramas.",
+		"gps": {
+			"lat": 17.5474418,
+			"lng": -99.5009963
+		},
+		"url": "https://www.lifeder.com/flora-y-fauna-de-guerrero/",
+		"estado": "Guerrero"
+	},
+	{
+		"id": 13,
+		"nombre": "Caoba",
+		"nombreCientifico": "Swietenia mahagoni",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Tree_in_new_leaves_I_IMG_6222.jpg/250px-Tree_in_new_leaves_I_IMG_6222.jpg",
+		"description": "Este árbol se encuentra en las sierras de Hidalgo. Tiene un tronco recto sin ramas hasta los 25 metros de altura, y una copa abierta en forma de sombrilla. La madera del tronco es rojiza, pesada y maciza. Suele usarse para la elaboración de muebles.",
+		"gps": {
+			"lat": 20.0994919,
+			"lng": -98.766359
+		},
+		"url": "https://www.lifeder.com/flora-fauna-hidalgo/",
+		"estado": "Hidalgo"
+	},
+	{
+		"id": 14,
+		"nombre": "Nardos",
+		"nombreCientifico": "Polianthes spp.",
+		"image": "https://www.lifeder.com/wp-content/uploads/2020/06/nardo.jpg",
+		"description": "En Jalisco se encuentran 13 de las 45 especies de nardos del género Polianthes endémico de México y Texas (EE. UU.). Se trata de hierbas con una estructura de propagación subterránea llamada cormo, que florece mediante un tallo con muchas flores en racimo.",
+		"gps": {
+			"lat": 20.6634024,
+			"lng": -103.3521895
+		},
+		"url": "https://www.lifeder.com/flora-fauna-jalisco/",
+		"estado": "Jalisco"
+	},
+	{
+		"id": 15,
+		"nombre": "Aguacate",
+		"nombreCientifico": "Persea americana",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Persea_americana1.JPG/250px-Persea_americana1.JPG",
+		"description": "Árbol frutal oriundo de Centroamérica cuyo fruto junto al chile verde es la base de la salsa mexicana llamada guacamole. Este árbol pertenece a la familia laurácea y alcanza cerca de 20 m de alto, presentando hojas simples y pequeñas flores de color amarillo verdoso. Sus frutos son parecidos a una pera con la capa externa verde o casi negra e interiormente la pulpa es amarillo verdosa y cremosa.",
+		"gps": {
+			"lat": 19.2830394,
+			"lng": -99.6559771
+		},
+		"url": "https://www.lifeder.com/flora-fauna-estado-de-mexico/",
+		"estado": "Edo. de México"
+	},
+	{
+		"id": 16,
+		"nombre": "Dalia Roja",
+		"nombreCientifico": "Dahlia Coccinea",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dahlia_coccinea%2C_the_Red_Dahlia_%289450014546%29.jpg/250px-Dahlia_coccinea%2C_the_Red_Dahlia_%289450014546%29.jpg",
+		"description": "Dahlia coccinea es una especie herbácea, que puede medir hasta 3 metros de alto. Además, es perenne, con raíces tuberculosas. Los tallos crecen erectos y pueden ser verdes. Así mismo, son estriados y glabros o también podrían ser escasamente pilosos.",
+		"gps": {
+			"lat": 19.7043409,
+			"lng": -101.1961762
+		},
+		"url": "https://www.lifeder.com/flora-y-fauna-de-michoacan/",
+		"estado": "Michoacan"
+	},
+	{
+		"id": 17,
+		"nombre": "Gala de Noche",
+		"nombreCientifico": "Cestrum nocturnum",
+		"image": "https://farm2.staticflickr.com/1886/42975385960_77d46e3b41.jpg",
+		"description": "Es una planta familia de las solanáceas y su nombre científico es Cestrum nocturnum. Sus flores son color amarillo verdoso y se abren de noche, despidiendo una agradable fragancia que atrae a muchas especies de mariposas.",
+		"gps": {
+			"lat": 18.9250189,
+			"lng": -99.2241687
+		},
+		"url": "https://www.lifeder.com/flora-fauna-morelos/",
+		"estado": "Morelos"
+	},
+	{
+		"id": 18,
+		"nombre": "Agave Tequilero",
+		"nombreCientifico": "Agave tequilana",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Agave_tequilana_1.jpg/220px-Agave_tequilana_1.jpg",
+		"description": "Agave tequilana constituye un producto económico de gran importancia en México (Tequila). La razón es, que de esta planta se obtienen azúcares, como la fructuosa. Dicha especie, que es monocárpica, florece solo una vez, luego de lo cual muere. El proceso de floración se inicia cuando la planta tiene de 6 a 12 años de cultivo. El eje floral, que puede medir 5 metros de alto, tiene numerosas flores verdosas o amarillas. Muchas de estas caen sin haber sido polinizadas.",
+		"gps": {
+			"lat": 21.4934273,
+			"lng": -104.8879186
+		},
+		"url": "https://www.lifeder.com/flora-y-fauna-de-nayarit/",
+		"estado": "Nayarit"
+	},
+	{
+		"id": 19,
+		"nombre": "Cacto de Boton",
+		"nombreCientifico": "Epithelantha pachyrhiza",
+		"image": "https://static.inaturalist.org/photos/13092140/medium.jpeg",
+		"description": "Esta especie se distribuye por Coahuila y Nuevo León, concretamente por Montemorelos. Crece en laderas semielevadas, normalmente en zonas de grava y rocas. Se dispone de tallos que miden hasta 6 cm.",
+		"gps": {
+			"lat": 25.6789926,
+			"lng": -100.3114529
+		},
+		"url": "https://www.lifeder.com/flora-fauna-nuevo-leon/",
+		"estado": "Nuevo Leon"
+	},
+	{
+		"id": 20,
+		"nombre": "Flamboyan",
+		"nombreCientifico": "Delonix regia",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flamboyant_BW_2.jpg/220px-Flamboyant_BW_2.jpg",
+		"description": "El framboyán es un árbol con el tronco un poco torcido y follaje muy denso. Puede llegar a medir hasta 8 metros de altura. Tiene flores grandes de colores muy vivos, rojo y naranja, por lo que es común que se le use para ornamentar espacios. Requiere mucho sol y florece desde la primavera hasta que comienza el otoño.",
+		"gps": {
+			"lat": 17.0731686,
+			"lng": -96.7306242
+		},
+		"url": "https://www.lifeder.com/flora-fauna-oaxaca/",
+		"estado": "Oaxaca"
+	},
+	{
+		"id": 21,
+		"nombre": "Palma Botella",
+		"nombreCientifico": "Hyophorbe lagenicaulis",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hyophorbe_lagenicaulis_BW.JPG/250px-Hyophorbe_lagenicaulis_BW.JPG",
+		"description": "Es una especie de palmera que tiene un gran tronco hinchado. Solo tiene de cuatro a seis hojas abiertas al mismo tiempo. Esta especie es muy sensible al frío. Si bien puede sobrevivir a una helada breve, podría sufrir daños en el follaje. Se distribuye en la parte central del estado.",
+		"gps": {
+			"lat": 19.0405799,
+			"lng": -98.2030744
+		},
+		"url": "https://www.lifeder.com/flora-fauna-puebla/",
+		"estado": "Puebla"
+	},
+	{
+		"id": 22,
+		"nombre": "Anacuhita",
+		"nombreCientifico": "Cordia boissieri",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cordia_boisseri_flowers.jpg/250px-Cordia_boisseri_flowers.jpg",
+		"description": "Árbol distribuido por la Sierra Madre Oriental, llegando a algunas regiones de Querétaro. Puede llegar a medir 6 metros de altura y destaca por las flores blancas que aparecen a finales de primavera de sus ramas.",
+		"gps": {
+			"lat": 20.5908959,
+			"lng": -100.3955098
+		},
+		"url": "https://www.lifeder.com/flora-fauna-queretaro/",
+		"estado": "Queretaro"
+	},
+	{
+		"id": 23,
+		"nombre": "Amapa amarilla o árbol primavera",
+		"nombreCientifico": "Roseodendron donnell-smithii",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Starr_050518-1609_Tabebuia_donnell-smithii.jpg/250px-Starr_050518-1609_Tabebuia_donnell-smithii.jpg",
+		"description": "Es un árbol de hasta 25 m de altura y 90 cm de diámetro de tronco, con hojas compuestas. Su floración es abundante, ocurriendo en la entrada de lluvias con grandes flores amarillas en panículas densas. Es una planta caducifolia (pierde sus hojas en la época seca), florece y con la llegada de lluvias produce el nuevo follaje. Sus frutos son cápsulas alargadas similares a vainas y las semillas son aladas.",
+		"gps": {
+			"lat": 18.5104832,
+			"lng": -88.3033641
+		},
+		"url": "https://www.lifeder.com/flora-fauna-quintana-roo/",
+		"estado": "Quintana Roo"
+	},
+	{
+		"id": 24,
+		"nombre": "Pezuña de venado",
+		"nombreCientifico": "Ariocarpus kotschoubeyanus",
+		"image": "https://es.wikipedia.org/wiki/Ariocarpus_kotschoubeyanus#/media/Archivo:Aiocarpus_kotschoubeyanus_Bluete.jpg",
+		"description": "Este cactus geófito es endémico de los estados Nuevo León, Durango y San Luis Potosí, en México. La especie forma rosetas semejando estrellas, que se elevan a pocos centímetros por encima del suelo. El vástago de esta planta es solitario, pudiendo dar origen, de manera ocasional, a brotes laterales. Con relación a los tubérculos, son verdes amarillentos, largados y carecen de espinas. Estás dispuestos en forma de espiral, uno sobre los otros. Adicionalmente, la base es afieltrada, mientras que la parte superior es plana.",
+		"gps": {
+			"lat": 22.1571582,
+			"lng": -100.9842788
+		},
+		"url": "https://www.lifeder.com/flora-y-fauna-de-san-luis-potosi/",
+		"estado": "San Luis Potosí"
+	},
+	{
+		"id": 25,
+		"nombre": "Huisache (Acacia)",
+		"nombreCientifico": "Vachellia farnesiana",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Acacia_farnesiana_az.jpg",
+		"description": "También conocida como espinillo blanco o acacia. Es también un arbusto pequeño, espinoso, con flor amarilla. Es típico de la América tropical, por lo que se ve en Sinaloa al igual que en otras regiones de norte a sur del continente.",
+		"gps": {
+			"lat": 25.8228899,
+			"lng": -108.2244771
+		},
+		"url": "https://www.lifeder.com/flora-fauna-sinaloa/",
+		"estado": "Sinaloa"
+	},
+	{
+		"id": 26,
+		"nombre": "Saguaro",
+		"nombreCientifico": "Carnegiea gigantea",
+		"image": "https://es.wikipedia.org/wiki/Carnegiea_gigantea#/media/Archivo:Carnegiea_gigantea_flowers.jpg",
+		"description": "El Saguaro es un tipo de planta que puede llegar hasta los doce metros de altura. Es el cactus típico del desierto de Sonora. Crecen muy lentamente y sus frutos y semillas son comestibles y de alta riqueza alimentaria.",
+		"gps": {
+			"lat": 29.082287,
+			"lng": -111.0590267
+		},
+		"url": "https://www.lifeder.com/flora-fauna-sonora/",
+		"estado": "Sonora"
+	},
+	{
+		"id": 27,
+		"nombre": "Caucho (Hule)",
+		"nombreCientifico": "Castilla elastica",
+		"image": "https://es.wikipedia.org/wiki/Castilla_elastica#/media/Archivo:Castilla_elastica_Bark_Scar.jpg",
+		"description": "El caucho es un árbol monopódico que pertenece a la familia de las moráceas. Es originario de México y de Centroamérica. Se localiza en las selvas que se encuentren hasta los 780 msnm. La altura de esta especie oscila de 20 a 25 metros. El tronco es recto, con un diámetro aproximado de 60 centímetros. La corteza, de color pardo grisáceo, es lisa, aunque pudiera tener algunas fisuras. Además, tiene lenticelas protuberantes, dispuestas en líneas orientadas horizontalmente.",
+		"gps": {
+			"lat": 17.9874256,
+			"lng": -92.944417
+		},
+		"url": "https://www.lifeder.com/flora-y-fauna-de-tabasco/",
+		"estado": "Tabasco"
+	},
+	{
+		"id": 28,
+		"nombre": "Cenizo",
+		"nombreCientifico": "Chenopodium album",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ChenopodiumAlbum001.JPG/240px-ChenopodiumAlbum001.JPG",
+		"description": "Conocida también como Chenopodium album, sus flores son muy pequeñas y cuentan con cinco pétalos color morado. Pertenece a la familia de las chenopodiaceae. Crece en posición vertical y tiende a deformarse después de la floración.",
+		"gps": {
+			"lat": 23.7368945,
+			"lng": -99.1540607
+		},
+		"url": "https://www.lifeder.com/flora-fauna-tamaulipas/",
+		"estado": "Tamaulipas"
+	},
+	{
+		"id": 29,
+		"nombre": "Cinco Llagas",
+		"nombreCientifico": "Tagetes lunulata",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tagetes_lunulata%2C_the_Flor_de_Muerte_%289468456047%29.jpg/250px-Tagetes_lunulata%2C_the_Flor_de_Muerte_%289468456047%29.jpg",
+		"description": "Su nombre científico es Tagetes lunulata. Esta flor es ampliamente utilizada en todo México como ofrenda el Día de los Muertos. Florece entre agosto y diciembre y sus pétalos son amarillos con el centro naranja.",
+		"gps": {
+			"lat": 19.3178782,
+			"lng": -98.2204503
+		},
+		"url": "https://www.lifeder.com/flora-fauna-tlaxcala/",
+		"estado": "Tlaxcala"
+	},
+	{
+		"id": 30,
+		"nombre": "Vainilla",
+		"nombreCientifico": "Vanilla planifolia",
+		"image": "https://www.lifeder.com/wp-content/uploads/2020/06/vainilla-560x420.jpg",
+		"description": "Es una hierba trepadora de la familia de las orquídeas oriunda de México, de cuyos frutos se extrae la esencia de vainilla. Sus hojas son simples, algo carnosas y las flores son de color amarillo verdoso, dando origen a frutos tipo cápsulas alargadas como vainas.",
+		"gps": {
+			"lat": 19.1761061,
+			"lng": -96.1244649
+		},
+		"url": "https://www.lifeder.com/flora-fauna-veracruz/",
+		"estado": "Veracruz"
+	},
+	{
+		"id": 31,
+		"nombre": "Flor de San Diego",
+		"nombreCientifico": "Antigonon leptopus",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Antigonon_leptopus_0.jpg/245px-Antigonon_leptopus_0.jpg",
+		"description": "Llamada “makal” por los mayas, se le reconoce por sus flores rosadas. Es una planta trepadora que crece como maleza. Es utilizada en la actualidad por sus propiedades medicinales para curar resfriados y afecciones respiratorias.",
+		"gps": {
+			"lat": 20.9680616,
+			"lng": -89.6234399
+		},
+		"url": "https://www.lifeder.com/flora-fauna-yucatan/",
+		"estado": "Yucatan"
+	},
+	{
+		"id": 32,
+		"nombre": "Mezquite",
+		"nombreCientifico": "Genero Prosopis",
+		"image": "https://www.lifeder.com/wp-content/uploads/2019/08/270px-Mezquites_en_Jes%C3%BAs_Mar%C3%ADa_Aguascalientes_02.jpg",
+		"description": "Es una leguminosa familia de las prosopis. Su nombre proviene de la lengua náhuatl. Su altura varía de entre 6 y 9 metros, y tiene hojas angostas y ramas con espinas. Este árbol florece con acento en el color amarillo.",
+		"gps": {
+			"lat": 22.7644919,
+			"lng": -102.5863831
+		},
+		"url": "https://www.lifeder.com/flora-fauna-zacatecas/",
+		"estado": "Zacatecas"
+	}
+]
