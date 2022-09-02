@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Flora-Mx/static/css/main.6c15fe51.css",
-    "main.js": "/Flora-Mx/static/js/main.c0feef6c.js",
+    "main.js": "/Flora-Mx/static/js/main.274f079f.js",
     "static/media/Flowers.mp4": "/Flora-Mx/static/media/Flowers.f58fdfe050c5c4c763fa.mp4",
     "static/media/ajenjo.png": "/Flora-Mx/static/media/ajenjo.7e5788dddc8b8a1129cb.png",
     "index.html": "/Flora-Mx/index.html",
     "main.6c15fe51.css.map": "/Flora-Mx/static/css/main.6c15fe51.css.map",
-    "main.c0feef6c.js.map": "/Flora-Mx/static/js/main.c0feef6c.js.map"
+    "main.274f079f.js.map": "/Flora-Mx/static/js/main.274f079f.js.map"
   },
   "entrypoints": [
     "static/css/main.6c15fe51.css",
-    "static/js/main.c0feef6c.js"
+    "static/js/main.274f079f.js"
   ]
 }
